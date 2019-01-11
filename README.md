@@ -1,2 +1,2 @@
-# WebSpider-MaoYanTop100
-This is a program to get the top 100 movies of MaoYan
+# WebSpider
+This is a project for webspidr of python3
